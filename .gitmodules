@@ -1,4 +1,4 @@
 [submodule "subiquity_client/subiquity"]
 	path = subiquity
-	url = https://github.com/canonical/subiquity.git
+	url = https://github.com/blackboxsw/subiquity.git
 	branch = main
